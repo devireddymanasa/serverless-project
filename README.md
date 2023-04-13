@@ -1,5 +1,5 @@
 # serverless-project
-#BULIT AN ANALYTICS ECOMMERCE WEBPAGE THROUGH ANY AWS SERVICES
+# BULIT AN ANALYTICS ECOMMERCE WEBPAGE THROUGH ANY AWS SERVICES
 
 With no server side code to run or maintain there is no point in using conventional web servers.Amazon Web Services (AWS) offers multiple options for hosting static or dynamic websites. For static content, the simplest and most affordable option is the Amazon Simple Storage Service (S3).You can store any number of objects in a bucket and can have up to 100 buckets in your account. S3 supports only static websites. However, if you're looking to host a dynamic website, then you can use services like EC2 or RDS for server-side processing and databases.
 
